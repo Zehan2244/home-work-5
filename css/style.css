@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    font-family: "Recursive", sans-serif;
+    color: blue;
+}
+h2{
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    line-height: 45px;
+
+}
+span{
+    color: aqua;
+}
+
+#fp{
+    color: rgb(151, 91, 18);
+    font-size: 20px;
+    line-height: 30px;
+
+}
+#sp{
+    color: rgb(65, 43, 16);
+    font-size: 20px;
+    line-height: 30px;
+}
+a{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 20ox;
+    height: 50px;
+    width: 100px;
+    display: block;
+    line-height: 50px;
+    text-align: center;
+}
